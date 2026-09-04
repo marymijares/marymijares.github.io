@@ -156,7 +156,7 @@ description = "An audio postcard revisiting the most famous sentence ever spoken
 audio = "media/audio/one-small-step.mp3"
 image = "media/work/apollo.jpg"
 date = "December 2025"
-category = "Multimedia"
+category = "Audio"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
