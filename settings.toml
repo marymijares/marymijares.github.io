@@ -148,6 +148,19 @@ photos = [
   "media/photo-assignment/moment.jpg | Moment",
 ]
 
+[[work]]
+title = "Ahit"
+description = "Tito Jessie"
+date = "August 2026"
+category = "Photojournalism"
+photos = [
+  "media/ahit/tito1.jpg | Ahit (Close Shave)", 
+  "media/ahit/tito2.jpg | Ahit (Close Shave)", 
+  "media/ahit/tito3.jpg | Ahit (Close Shave)", 
+  "media/ahit/tito4.jpg | Ahit (Close Shave)", 
+  "media/ahit/tito5.jpg | Ahit (Close Shave)", 
+]
+
 # ── An audio story stored on your site ──────────────────────
 #
 # Point "audio" at an mp3 file in your media folder. The photo
